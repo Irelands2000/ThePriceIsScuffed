@@ -1,0 +1,16 @@
+{
+  "name": "price-is-scuffed",
+  "version": "1.0.0",
+  "description": "A game where players guess item prices",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1",
+    "bcryptjs": "^2.4.3"
+  },
+  "author": "Spencer",
+  "license": "ISC"
+}
